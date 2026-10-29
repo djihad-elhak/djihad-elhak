@@ -2,9 +2,9 @@
 
 ### Djoud El Hak Belkhir
 
-Master 2 student in Data, Knowledge and Hybrid AI at **Université Paris-Saclay**, after an engineering degree in AI and data science at ESTIN (ranked 6th of my class). I build computer vision, model compression and on-premise LLM systems, and I measure whether they work.
+AI and data engineer, Master 2 in Data, Knowledge and Hybrid AI at **Université Paris-Saclay**, after an engineering degree in AI and data science at ESTIN (ranked 6th of my class). I build AI systems from data to production: LLM applications with RAG and agents, machine learning and computer vision models, and the data pipelines, evaluation and deployment around them.
 
-**Looking for a 6-month end-of-studies internship (PFE) in AI or data science, from February 2027**, in the Paris area. Open to a CIFRE PhD afterwards.
+**Looking for a 6-month end-of-studies internship (PFE) in AI, ML, GenAI or data, from February 2027**: Paris first, then anywhere in France, Europe or Canada. Open to a full-time position or a CIFRE PhD afterwards.
 
 [Portfolio](https://djihad-elhak.github.io) · [LinkedIn](https://www.linkedin.com/in/djoud-el-hak-belkhir-055977223/) · [Kaggle](https://www.kaggle.com/djihadelhakbelkhir) · djoudelhak@gmail.com
 
