@@ -6,8 +6,8 @@
 
 Master 2 in Data, Knowledge and Hybrid AI at **Université Paris-Saclay**, after a state engineering degree in AI and data science at ESTIN (ranked 6th of my class). I build AI systems from data to production and measure what each design choice is worth before I keep it.
 
-> **Open to a 6-month end-of-studies internship (PFE) from February 2027**
-> AI / ML engineering, LLM and GenAI, data science, computer vision, data engineering, MLOps or applied research.
+> **Open to a 6-month end-of-studies internship (PFE) from February 2027**<br>
+> AI / ML engineering, LLM and GenAI, data science, computer vision, data engineering, MLOps or applied research.<br>
 > Paris first, then anywhere in France; open to Europe and Canada. Open to a full-time position or a CIFRE PhD afterwards.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-djihad--elhak.github.io-1b1a18?style=flat-square)](https://djihad-elhak.github.io)
